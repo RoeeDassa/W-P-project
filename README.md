@@ -10,7 +10,7 @@ constants to change:
    - make sure to change the contents of the .bat file to the path to where you keep the pServer.py file
 
 how to run:
-1. (ideally the server should be running at all times from a distant computer but if the server is down youll need to run the bigServer.py file)
+1. run the bigServer.py file
 2. run the GUI.py file on the computer you want the banning and monitoring to occur on, signup with a username and password and then go to settings > network & internet > use a proxy server > input the ip 127.0.0.1 and port 8888
 3. from another computer run the GUI.py file and login with the information you previously chose, from there you can add / remove / view the list of banned sites
 4. now when trying to enter a "banned site" from the computer you signed up on the site will be blocked and a custom html error page will open
